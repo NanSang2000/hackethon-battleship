@@ -1,5 +1,6 @@
 import random
-
+#CONFIRMATION: We are an officially registered team for Hackiethon 2023
+#[code] [7701683429]
 
 def ShipLogic(round, yourMap, yourHp, enemyHp, p1ShotSeq, p1PrevHit, storage):
 
